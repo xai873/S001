@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\S001\Debug\S001.exe
+C:\Users\Admin\source\repos\S001\Debug\S001.pdb
